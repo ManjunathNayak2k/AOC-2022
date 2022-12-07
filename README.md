@@ -2,4 +2,4 @@
 
 Documenting my solutions for AoC 2022👨‍💻
 
-Written in C++ and Rust (*hopefully*)
+Written in ~~C++ and Rust (*hopefully*)~~ python (*mostly*)
